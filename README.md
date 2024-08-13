@@ -6,7 +6,7 @@
 
 <h3 align="center">Passionate about leveraging modern web technologies like TypeScript, JavaScript, React, and Next.js to create innovative and user-friendly applications.</h3>
 
-</br>
+</hr>
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 📚 I'm currently learning: **Socket.io & different authentication methods**
 
-💬 Feel free to ask me about: **TypeScript, JavaScript, React, and Next.js**
+💬 Feel free to ask me about: **TypeScript, JavaScript, React, and Next.js [here](https://github.com/LucasDaSilva96/LucasDaSilva96/issues)**
 
 ✨ Fun fact about me: **I can code for hours on end, but if you challenge me to a workout, I'll bring the same level of intensity and focus—just with a bit more protein!**
 
@@ -32,5 +32,13 @@
   <a target="_blank" href="https://next-portfolio-three-mu.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+
+</div>
+
+</hr>
+
+<h2>💻 Languages-Framework-Tools ⚒️</h2>
+<br/>
+<div align="center">
 
 </div>
