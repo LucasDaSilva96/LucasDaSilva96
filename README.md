@@ -52,7 +52,7 @@
 <h2>✨ My Contributions ✨</h2>
 <br/>
 ![snake gif](https://github.com/LucasDaSilva96/LucasDaSilva96/blob/output/github-contribution-grid-snake.gif)
-<img src="https://github.com/LucasDaSilva96/LucasDaSilva96/blob/output/github-contribution-grid-snake.gif" />
+
 <br/>
 
 <br/>
