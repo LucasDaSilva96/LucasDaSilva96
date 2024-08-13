@@ -54,6 +54,6 @@
 ![snake gif](https://github.com/LucasDaSilva96/LucasDaSilva96/blob/output/github-contribution-grid-snake.gif)
 
 <br/>
-<br/>
+
 <br/>
 </div>
