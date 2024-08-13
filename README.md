@@ -69,5 +69,13 @@
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LucasDaSilva96)](https://git.io/streak-stats)
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDaSilva96&show_icons=true&theme=transparent)
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=LucasDaSilva96&show_icons=true&theme=transparent" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-LucasDaSilva96.vercel.app/api?username=LucasDaSilva96&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-LucasDaSilva96.vercel.app/api/top-langs/?username=LucasDaSilva96&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
