@@ -42,5 +42,5 @@
 </div>
 <br/>
 <div align="center">
-
+<img src="https://skillicons.dev/icons?i=git,css,express,figma,html,js,mongodb,nextjs,nodejs,npm,postman,react,redux,supabase,sentry,tailwind,ts,vscode" />
 </div>
