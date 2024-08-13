@@ -7,3 +7,15 @@
 <h3 align="center">Passionate about leveraging modern web technologies like TypeScript, JavaScript, React, and Next.js to create innovative and user-friendly applications.</h3>
 
 </br>
+
+<div align="center">
+
+👨🏼‍💻 I'm currently working on a **a chat app**
+
+📚 I'm currently learning **Socket.io & different authentication methods**
+
+💬 Feel free to ask me about **TypeScript, JavaScript, React, and Next.js**
+
+✨ Fun fact about me **I can code for hours on end, but if you challenge me to a workout, I'll bring the same level of intensity and focus—just with a bit more protein!**
+
+</div>
