@@ -70,3 +70,4 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LucasDaSilva96)](https://git.io/streak-stats)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDaSilva96&show_icons=true&theme=transparent)
