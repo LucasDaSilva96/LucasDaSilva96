@@ -50,10 +50,6 @@
 
 <div align="center">
 <h2>✨ My Contributions ✨</h2>
-<br/>
-![snake gif](https://github.com/LucasDaSilva96/LucasDaSilva96/blob/output/github-contribution-grid-snake.svg)
-
-<br/>
-
-<br/>
 </div>
+
+[snake gif](https://github.com/LucasDaSilva96/LucasDaSilva96/blob/output/github-contribution-grid-snake.svg)
