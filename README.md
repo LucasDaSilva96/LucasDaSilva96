@@ -75,7 +75,7 @@
 <br>
 <div align=center>
 <img src="https://streak-stats.demolab.com?user=LucasDaSilva96&theme=transparent&border_radius=10" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats-LucasDaSilva96.vercel.app/api?username=LucasDaSilva96&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=LucasDaSilva96&show_icons=true&theme=dark"
