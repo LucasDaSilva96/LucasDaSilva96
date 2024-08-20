@@ -12,7 +12,7 @@
 
 👨🏼‍💻 I'm currently working on  **a chat app**
 
-📚 I'm currently learning: **Socket.io & different authentication methods**
+📚 I'm currently learning: **Socket.io,different authentication methods & AWS**
 
 💬 Feel free to ask me about: **TypeScript, JavaScript, React, and Next.js [here](https://github.com/LucasDaSilva96/LucasDaSilva96/issues)**
 
