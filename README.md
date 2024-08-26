@@ -10,7 +10,7 @@
 
 <div align="center">
 
-👨🏼‍💻 I'm currently working on  **a chat app**
+👨🏼‍💻 I'm currently working on  **a chat app - Stay tuned🤓**
 
 📚 I'm currently learning: **Socket.io,different authentication methods & AWS**
 
