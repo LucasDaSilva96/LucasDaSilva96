@@ -42,7 +42,7 @@
 </div>
 <br/>
 <div align="center">
-<img alt="Languages, framework and tools that I use" src="https://skillicons.dev/icons?i=git,css,express,figma,html,js,mongodb,nextjs,nodejs,npm,postman,react,redux,supabase,sentry,tailwind,ts,vscode,aws,vue,nuxt" />
+<img alt="Languages, framework and tools that I use" src="https://skillicons.dev/icons?i=git,postman,npm,figma,vscode,js,ts,nodejs,react,nextjs,vue,nuxt,html,css,tailwind,express,mongodb,redux,supabase,sentry,aws" />
 </div>
 
 <br/>
