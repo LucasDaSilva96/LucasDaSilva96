@@ -12,7 +12,7 @@
 
 👨🏼‍💻 I'm currently working on  **a chat app - Stay tuned🤓**
 
-📚 I'm currently learning: **Vue and AWS**
+📚 I'm currently learning: **Vue, Nuxt and AWS**
 
 💬 Feel free to ask me about: **TypeScript, JavaScript, React, and Next.js [here](https://github.com/LucasDaSilva96/LucasDaSilva96/issues)**
 
@@ -42,7 +42,7 @@
 </div>
 <br/>
 <div align="center">
-<img alt="Languages, framework and tools that I use" src="https://skillicons.dev/icons?i=git,css,express,figma,html,js,mongodb,nextjs,nodejs,npm,postman,react,redux,supabase,sentry,tailwind,ts,vscode,aws,vue" />
+<img alt="Languages, framework and tools that I use" src="https://skillicons.dev/icons?i=git,css,express,figma,html,js,mongodb,nextjs,nodejs,npm,postman,react,redux,supabase,sentry,tailwind,ts,vscode,aws,vue,nuxt" />
 </div>
 
 <br/>
