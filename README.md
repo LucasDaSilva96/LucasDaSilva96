@@ -58,7 +58,7 @@
     srcset="https://raw.githubusercontent.com/LucasDaSilva96/LucasDaSilva96/output/github-contribution-grid-snake.svg"
   />
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/LucasDaSilva96/LucasDaSilva96/output/github-contribution-grid-snake.svg"
   />
   <img
