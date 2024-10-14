@@ -12,7 +12,7 @@
 
 👨🏼‍💻 I'm currently working on  **a chat app - Stay tuned🤓**
 
-📚 I'm currently learning: **Vue, Nuxt and AWS**
+📚 I'm currently learning: **React Native & Directus**
 
 💬 Feel free to ask me about: **TypeScript, JavaScript, React, and Next.js [here](https://github.com/LucasDaSilva96/LucasDaSilva96/issues)**
 
