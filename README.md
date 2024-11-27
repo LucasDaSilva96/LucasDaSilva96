@@ -10,7 +10,7 @@
 
 <div align="center">
 
-👨🏼‍💻 I'm currently working on  **a chat app - Stay tuned🤓**
+👨🏼‍💻 I'm currently working on  **a chat & expense tracker app - Stay tuned🤓**
 
 📚 I'm currently learning: **React Native**
 
