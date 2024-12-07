@@ -4,7 +4,7 @@
 <img alt="Hi there, I'm Lucas" src="https://readme-typing-svg.herokuapp.com?font=sans-serif&size=35&pause=1000&center=true&width=500&height=70&lines=Hi+there%F0%9F%91%8B!;I'm+Lucas%F0%9F%91%A8%F0%9F%8F%BC" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Passionate about leveraging modern web technologies like TypeScript, JavaScript, React, Next.js, Vue and Nuxt.js to create innovative and user-friendly applications.</h3>
+<h3 align="center">Passionate about leveraging modern technologies like TypeScript, JavaScript, React, React Native, Next.js, Vue and Nuxt.js to create innovative and user-friendly applications.</h3>
 
 </hr>
 
