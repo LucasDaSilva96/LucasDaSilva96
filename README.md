@@ -74,7 +74,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<img src="https://streak-stats.demolab.com?user=LucasDaSilva96&theme=transparent&border_radius=10" alt="GitHub Streak" />
+<!-- <img src="https://streak-stats.demolab.com?user=LucasDaSilva96&theme=transparent&border_radius=10" alt="GitHub Streak" /> -->
+  <img src="https://streak-stats.demolab.com/?user=LucasDaSilva96" alt="GitHub Streak" />
   <br/>
 <picture>
   <source
