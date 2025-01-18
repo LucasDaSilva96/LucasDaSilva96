@@ -74,9 +74,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-```md
-[![GitHub Streak](https://streak-stats.demolab.com?user=LucasDaSilva96&theme=highcontrast)](https://git.io/streak-stats)
-```
+
+[![GitHub Streak](https://github-readme-streak-stats-gilt-two.vercel.app/?user=LucasDaSilva96&theme=highcontrast)](https://git.io/streak-stats)
+
   <br/>
 <picture>
   <source
