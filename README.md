@@ -72,12 +72,24 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
 <div align=center>
 
 [![GitHub Streak](https://github-readme-streak-stats-gilt-two.vercel.app/?user=LucasDaSilva96&theme=highcontrast)](https://git.io/streak-stats)
 
-  <br/>
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=LucasDaSilva96&theme=radical&no-frame=true&margin-w=4" alt="Hoang Son's GitHub Trophies" />
+</div>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasDaSilva96&theme=radical" alt="Lucas Da Silva's GitHub Achievements" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDaSilva96&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
+</div>
+
+ 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=LucasDaSilva96&show_icons=true&theme=dark"
