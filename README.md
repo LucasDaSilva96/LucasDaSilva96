@@ -75,7 +75,7 @@
 <br>
 <div align=center>
 ```md
-[![GitHub Streak][(https://github-readme-streak-stats-gilt-two.vercel.app/demo/?user=LucasDaSilva96)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=LucasDaSilva96&theme=highcontrast)](https://git.io/streak-stats)
 ```
   <br/>
 <picture>
