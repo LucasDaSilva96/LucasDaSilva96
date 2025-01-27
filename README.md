@@ -77,9 +77,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-gilt-two.vercel.app/?user=LucasDaSilva96&theme=highcontrast)](https://git.io/streak-stats)
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=LucasDaSilva96&theme=radical&no-frame=true&margin-w=4" alt="Hoang Son's GitHub Trophies" />
-</div>
+
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasDaSilva96&theme=radical" alt="Lucas Da Silva's GitHub Achievements" />
