@@ -12,7 +12,7 @@
 
 👨🏼‍💻 I'm currently working on  **a expense tracker app - Stay tuned🤓**
 
-📚 I'm currently learning: **Socket.io**
+📚 I'm currently learning: **Socket.io & AI integration**
 
 💬 Feel free to ask me about: **TypeScript, JavaScript, React, Vue, Nuxt.js and Next.js [here](https://github.com/LucasDaSilva96/LucasDaSilva96/issues)**
 
