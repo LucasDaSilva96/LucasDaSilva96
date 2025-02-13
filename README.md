@@ -10,7 +10,7 @@
 
 <div align="center">
 
-👨🏼‍💻 I'm currently working on  **a expense tracker app - Stay tuned🤓**
+👨🏼‍💻 Apps on App Store:  **Spensify**
 
 📚 I'm currently learning: **Socket.io & AI integration**
 
