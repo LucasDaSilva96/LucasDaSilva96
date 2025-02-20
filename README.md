@@ -29,7 +29,7 @@
     <img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a target="_blank" href="https://next-portfolio-three-mu.vercel.app/">
+  <a target="_blank" href="https://www.lucasdeveloper.no/">
     <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
