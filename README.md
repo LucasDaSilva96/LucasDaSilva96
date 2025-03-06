@@ -12,7 +12,7 @@
 
 👨🏼‍💻 Apps on App Store:  **Spensify**
 
-📚 I'm currently learning: **Laravel, PHP and SQL**
+📚 I'm currently learning: **Laravel and Blue Prism (RPA)**
 
 💬 Feel free to ask me about: **TypeScript, JavaScript, React, React Native, Node, Vue, Nuxt.js and Next.js [here](https://github.com/LucasDaSilva96/LucasDaSilva96/issues)**
 
