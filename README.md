@@ -14,7 +14,7 @@
 
 📚 I'm currently learning: **Laravel and Blue Prism (RPA)**
 
-💬 Feel free to ask me about: **TypeScript, JavaScript, React, React Native, Node, Vue, Nuxt.js and Next.js [here](https://github.com/LucasDaSilva96/LucasDaSilva96/issues)**
+💬 Feel free to ask me about: **TypeScript, JavaScript, React, React Native, Node, Vue, Nuxt.js, Laravel and Next.js [here](https://github.com/LucasDaSilva96/LucasDaSilva96/issues)**
 
 ✨ Fun fact about me: **I can code for hours on end, but if you challenge me to a workout, I'll bring the same level of intensity and focus—just with a bit more protein!**
 
