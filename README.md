@@ -4,7 +4,7 @@
 <img alt="Hi there, I'm Lucas" src="https://readme-typing-svg.herokuapp.com?font=sans-serif&size=35&pause=1000&center=true&width=500&height=70&lines=Hi+there%F0%9F%91%8B!;I'm+Lucas%F0%9F%91%A8%F0%9F%8F%BC" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">I build user-friendly applications with TypeScript, JavaScript, Node, React, React Native, Next.js, Vue, and Nuxt.js. My focus is on making things work smoothly and efficiently with modern technology.</h3>
+<h3 align="center">I build practical software from start to finish. I write code to solve everyday problems and enjoy learning new technologies as I go. On my GitHub, you'll find projects that show my work and experiments as I continue to grow my skills. Thanks for stopping by.</h3>
 
 </hr>
 
