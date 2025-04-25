@@ -1,4 +1,3 @@
-<img alt="Amount of visitors badge" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LucasDaSilva96.LucasDaSilva96"/>
 <img alt="Amount of visitors badge" align="right" src="https://profile-counter.glitch.me/LucasDaSilva96/count.svg"/>
 
 <h1 align="center">
