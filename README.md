@@ -1,4 +1,5 @@
 <img alt="Amount of visitors badge" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LucasDaSilva96.LucasDaSilva96"/>
+![Visitor Count](https://profile-counter.glitch.me/LucasDaSilva96/count.svg)
 
 <h1 align="center">
 <img alt="Hi there, I'm Lucas" src="https://readme-typing-svg.herokuapp.com?font=sans-serif&size=35&pause=1000&center=true&width=500&height=70&lines=Hi+there%F0%9F%91%8B!;I'm+Lucas%F0%9F%91%A8%F0%9F%8F%BC" alt="Typing SVG" />
