@@ -1,5 +1,3 @@
-<img alt="Amount of visitors badge" align="right" src="https://profile-counter.glitch.me/LucasDaSilva96/count.svg"/>
-
 <h1 align="center">
 <img alt="Hi there, I'm Lucas" src="https://readme-typing-svg.herokuapp.com?font=sans-serif&size=35&pause=1000&center=true&width=500&height=70&lines=Hi+there%F0%9F%91%8B!;I'm+Lucas%F0%9F%91%A8%F0%9F%8F%BC" alt="Typing SVG" />
 </h1>
@@ -12,9 +10,9 @@
 
 👨🏼‍💻 Apps on App Store:  **Spensify**
 
-📚 I'm currently learning: **Laravel and Blue Prism (RPA)**
+📚 I'm currently learning: **Bash Scripting Automation**
 
-💬 Feel free to ask me about: **TypeScript, JavaScript, React, React Native, Node, Vue, Nuxt.js, Laravel and Next.js [here](https://github.com/LucasDaSilva96/LucasDaSilva96/issues)**
+💬 Feel free to ask me about: **TypeScript, JavaScript, React, React Native, Node, Vue, Nuxt.js, Laravel, BluePrism RPA and Next.js [here](https://github.com/LucasDaSilva96/LucasDaSilva96/issues)**
 
 ✨ Fun fact about me: **I can code for hours on end, but if you challenge me to a workout, I'll bring the same level of intensity and focus—just with a bit more protein!**
 
