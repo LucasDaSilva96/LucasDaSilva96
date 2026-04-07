@@ -77,11 +77,6 @@
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasDaSilva96&theme=radical" alt="Lucas Da Silva's GitHub Achievements" />
 </div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDaSilva96&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
-</div>
-
  
 <picture>
   <source
