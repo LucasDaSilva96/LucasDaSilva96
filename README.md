@@ -40,7 +40,7 @@
 </div>
 <br/>
 <div align="center">
-<img alt="Languages, framework and tools that I use" src="https://skillicons.dev/icons?i=git,postman,npm,figma,vscode,js,ts,nodejs,react,nextjs,vue,nuxt,html,css,tailwind,express,mongodb,redux,pinia,supabase,sentry,aws,laravel,php,postgresql" />
+<img alt="Languages, framework and tools that I use" src="https://skillicons.dev/icons?i=git,postman,npm,figma,vscode,js,ts,nodejs,react,nextjs,vue,nuxt,html,css,tailwind,express,mongodb,redux,pinia,supabase,sentry,aws,laravel,php,postgresql,python" />
 </div>
 
 <br/>
@@ -72,9 +72,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align=center>
-
-[![GitHub Streak](https://github-readme-streak-stats-gilt-two.vercel.app/?user=LucasDaSilva96&theme=highcontrast)](https://git.io/streak-stats)
-
 
 
 <div align="center">
